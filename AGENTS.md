@@ -10,3 +10,7 @@ This public repository is the account-wide source of default GitHub community he
 - Never request or expose credentials, personal source content, production data, local database files, or stable account identifiers.
 - Security reports must use private vulnerability reporting or the contact in `SECURITY.md`, never a public issue.
 - A repository-specific file overrides the corresponding default. Avoid copying defaults into individual repositories unless an override is necessary.
+
+# CLAUDE.md
+
+Read and follow [AGENTS.md](AGENTS.md) before changing this repository.
